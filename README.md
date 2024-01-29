@@ -5,6 +5,9 @@
 DeepLearning.AI — Natural Language Processing Specialization  
 https://www.coursera.org/specializations/natural-language-processing
 
+DeepLearning.AI - Natural Language Processing with Classification and Vector Spaces
+https://coursera.org/share/6b90c5eb061671f79232bcc377dbd60f
+
 MIT - Machine Learning with Python — From Linear Models to Deep Learning  
 https://courses.edx.org/certificates/98756d99f89f4cc3b52d0bec0fd5b555
 
