@@ -54,6 +54,9 @@ https://www.codecademy.com/learn/learn-git
 
 ### FUNDAMENTALS:
 
+MIT - Probability - The Science of Uncertainty and Data  
+https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data
+
 Harvard University — Probability from the Ground Up  
 https://courses.edx.org/certificates/59fc778a16cc46b49ae016912327b67c
 
