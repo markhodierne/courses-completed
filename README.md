@@ -5,7 +5,7 @@
 DeepLearning.AI — Natural Language Processing Specialization  
 https://www.coursera.org/specializations/natural-language-processing
 
-DeepLearning.AI - Natural Language Processing with Classification and Vector Spaces
+DeepLearning.AI - Natural Language Processing with Classification and Vector Spaces  
 https://coursera.org
 
 MIT - Machine Learning with Python — From Linear Models to Deep Learning  
@@ -37,7 +37,7 @@ https://courses.edx.org
 Codecademy — Apply Natural Language Processing with Python Skill Path  
 https://www.codecademy.com/learn/paths/natural-language-processing
 
-Codecademy - Build Chatbots with Python Skill Path
+Codecademy - Build Chatbots with Python Skill Path  
 https://www.codecademy.com/learn/paths/build-chatbots-with-python
 
 Codecademy — Learn Machine Learning Skill Path  
@@ -69,10 +69,10 @@ https://courses.edx.org
 Delft University of Technology — Pre-University Calculus  
 https://courses.edx.org
 
-Codecademy — Fundamental Math for Data Science Skill Path
+Codecademy — Fundamental Math for Data Science Skill Path  
 https://www.codecademy.com/learn/paths/fundamental-math-for-data-science
 
-Codecademy — Master Statistics with Python Skill Path
+Codecademy — Master Statistics with Python Skill Path  
 https://www.codecademy.com/learn/paths/master-statistics-with-python
 
 
