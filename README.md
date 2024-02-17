@@ -58,6 +58,9 @@ https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflo
 Codecademy — Learn Git and GitHub
 https://www.codecademy.com/learn/learn-git
 
+Datacamp — Introduction to Shell  
+https://app.datacamp.com/learn/courses/introduction-to-shell
+
 ### FUNDAMENTALS:
 
 MIT - Probability - The Science of Uncertainty and Data  
