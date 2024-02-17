@@ -55,7 +55,7 @@ https://www.codecademy.com/learn/paths/machine-learning-ai-engineering-foundatio
 Codecademy — Build Deep Learning Models with TensorFlow Skill Path  
 https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow
 
-Codecademy — Learn Git and GitHub
+Codecademy — Learn Git and GitHub  
 https://www.codecademy.com/learn/learn-git
 
 Datacamp — Introduction to Shell  
