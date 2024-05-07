@@ -5,6 +5,9 @@
 DeepLearning.AI — Natural Language Processing Specialization  
 https://www.coursera.org/specializations/natural-language-processing
 
+DeepLearning.AI - Natural Language Processing with Probabilistic Models
+https://coursera.org
+
 DeepLearning.AI - Natural Language Processing with Classification and Vector Spaces  
 https://coursera.org
 
