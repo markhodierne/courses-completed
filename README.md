@@ -2,14 +2,10 @@
 
 ### SPECIALIST COURSES AND PROFESSIONAL CERTIFICATES:
 
-DeepLearning.AI — Natural Language Processing Specialization  
+DeepLearning.AI — Natural Language Processing Specialization:  
+    - NLP with Probabilistic Models
+    - NLP with Classification and Vector Spaces
 https://www.coursera.org/specializations/natural-language-processing
-
-DeepLearning.AI - Natural Language Processing with Probabilistic Models  
-https://coursera.org
-
-DeepLearning.AI - Natural Language Processing with Classification and Vector Spaces  
-https://coursera.org
 
 MIT - Machine Learning with Python — From Linear Models to Deep Learning  
 https://courses.edx.org
