@@ -35,7 +35,12 @@ Codecademy — Learn Git and GitHub
 https://www.codecademy.com
 
 Datacamp — Introduction to Shell  
-https://app.datacamp.com/learn/courses/introduction-to-shell
+Datacamp — Introduction to Docker  
+Datacamp — Introduction to SQL  
+Datacamp — Intermediate SQL  
+Datacamp — Creating PostgreSQL Databases  
+Datacamp — Introduction to Deep Learning with PyTorch  
+https://app.datacamp.com  
 
 ### FUNDAMENTALS:
 
